@@ -1,0 +1,49 @@
+/*          ---__MAIN__---           */
+@media screen and (max-width:500px){
+  
+html {
+  font-size: 30px;
+  font-family: fantasy, sans-serif;
+  background: hsl(31,70%,90%);
+}
+
+#heading {
+  color: #a8385a;
+  text-align: center;
+  font-size: 1.5rem;
+  }
+      
+#menu {
+  font-size: 0.7rem;
+  list-style: none;  
+  padding: 0.5rem;
+  text-align: center;
+}
+
+li {
+  border: solid #a8385a ;
+  border-width:0 0 1px 0;
+  border-radius:20px;
+  margin: 2em ;
+}
+
+a {
+  text-decoration: none;
+  color: #a8385a;
+  }
+
+}
+
+@media screen and (min-width:601px){
+
+html {
+  
+  
+}
+
+
+
+
+
+
+

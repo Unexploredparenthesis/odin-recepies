@@ -1,0 +1,27 @@
+/*          ---__CHAI__---          */
+
+html {
+  background: #966e3744;
+  margin: 5px 5px;
+  padding: 5px ;
+  border: 1px solid #ff001f;
+}
+
+.main.heading {
+  font-size: 2rem;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+#discription {
+  padding: 0.1rem 0.3rem;
+  margin: 1rem;
+}
+
+.heading {
+  text-align: center;
+  border-bottom: 1px solid #ff001f;
+}
